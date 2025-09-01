@@ -48,7 +48,7 @@ DATA-VINCI-ASSIGNMENT/
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/DATA-VINCI-ASSIGNMENT.git
+git clone https://github.com/SriBoo/DATA-VINCI-ASSIGNMENT.git
 cd DATA-VINCI-ASSIGNMENT
 npm install
 npm start
@@ -63,5 +63,5 @@ Open to relocation (Bangalore, Hyderabad, Pune) and hybrid/remote roles
 
 ## Demo
 
-Loom walkthrough: [Insert Loom link here]  
-Live preview (optional): [Insert deployment link if hosted]
+Loom walkthrough: https://www.loom.com/share/8e12c9800c4348e2a6125a4a13a02379?sid=60c043d6-2d0e-448c-9329-23c8677848b2  
+Live preview : https://data-vinci-assignment-nine.vercel.app/
